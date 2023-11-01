@@ -1,0 +1,6 @@
+/home/leandnaty/Documents/java/spring-boot-h2-database-crud/src/main/java/com/transferencia/spring/jpa/h2/dominio/CalculoTaxas.java
+/home/leandnaty/Documents/java/spring-boot-h2-database-crud/src/main/java/com/transferencia/spring/jpa/h2/controller/TransferenciaController.java
+/home/leandnaty/Documents/java/spring-boot-h2-database-crud/src/main/java/com/transferencia/spring/jpa/h2/SpringBootJpaH2Application.java
+/home/leandnaty/Documents/java/spring-boot-h2-database-crud/src/main/java/com/transferencia/spring/jpa/h2/aplication/Transacao.java
+/home/leandnaty/Documents/java/spring-boot-h2-database-crud/src/main/java/com/transferencia/spring/jpa/h2/repository/TransferenciaRepository.java
+/home/leandnaty/Documents/java/spring-boot-h2-database-crud/src/main/java/com/transferencia/spring/jpa/h2/model/Transferencia.java

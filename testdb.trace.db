@@ -1,0 +1,3 @@
+2023-10-18 17:36:38 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "truncate [*]Transferencia"; expected "TABLE"; SQL statement:
+truncate Transferencia [42001-214]
